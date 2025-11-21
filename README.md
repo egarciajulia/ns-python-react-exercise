@@ -14,7 +14,9 @@ You've just joined a new team building a dashboard for visualizing financial tra
 
 ## Your Mission: A Three-PR Workflow
 
-**Important First Step:** Before you begin, please **fork this repository**. You will work entirely on your own fork, creating pull requests within that repository. **Do not create any pull requests to the original upstream repository.**
+**Important First Step:** Before you begin, please **fork this repository** (Make sure you fork all the branches, you will need them).
+
+You will work entirely on your own fork, creating pull requests within that repository. **Do not create any pull requests to the original upstream repository.**
 
 Your work will be organized into three separate pull requests within your own repository. We recommend following these steps in order.
 
